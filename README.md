@@ -19,9 +19,9 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-progress](https://github.com/sindresorhus/p-progress) ⭐ 768 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-04**: Create a promise that reports progress
 * **[delay](https://github.com/sindresorhus/delay) ⭐ 624 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-31**: Delay a promise a specified amount of time
 * **[p-throttle](https://github.com/sindresorhus/p-throttle) ⭐ 518 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-08**: Throttle promise-returning & async functions
+* **[p-event](https://github.com/sindresorhus/p-event) ⭐ 451 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-14**: Promisify an event by waiting for it to be emitted
 * **[p-cancelable](https://github.com/sindresorhus/p-cancelable) ⭐ 451 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-09**: Create a promise that can be canceled
-* **[p-event](https://github.com/sindresorhus/p-event) ⭐ 450 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-14**: Promisify an event by waiting for it to be emitted
-* **[p-memoize](https://github.com/sindresorhus/p-memoize) ⭐ 447 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-26**: Memoize promise-returning & async functions
+* **[p-memoize](https://github.com/sindresorhus/p-memoize) ⭐ 448 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-26**: Memoize promise-returning & async functions
 * **[p-all](https://github.com/sindresorhus/p-all) ⭐ 345 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-18**: Run promise-returning & async functions concurrently with optional limited concurrency
 * **[make-synchronous](https://github.com/sindresorhus/make-synchronous) ⭐ 332 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-13**: Make an asynchronous function synchronous
 * **[p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 305 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-07**: Timeout a promise after a specified amount of time
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

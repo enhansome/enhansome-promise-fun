@@ -117,6 +117,20 @@
         },
         {
           "node_type": "item",
+          "title": "p-event: Promisify an event by waiting for it to be emitted",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-14T08:00:21Z",
+            "owner": "sindresorhus",
+            "repo": "p-event",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
           "title": "p-cancelable: Create a promise that can be canceled",
           "description": null,
           "children": [],
@@ -131,20 +145,6 @@
         },
         {
           "node_type": "item",
-          "title": "p-event: Promisify an event by waiting for it to be emitted",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-14T08:00:21Z",
-            "owner": "sindresorhus",
-            "repo": "p-event",
-            "stars": 450
-          }
-        },
-        {
-          "node_type": "item",
           "title": "p-memoize: Memoize promise-returning & async functions",
           "description": null,
           "children": [],
@@ -154,7 +154,7 @@
             "last_commit": "2026-07-26T07:14:57Z",
             "owner": "sindresorhus",
             "repo": "p-memoize",
-            "stars": 447
+            "stars": 448
           }
         },
         {
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:49:26.469Z",
+    "last_updated": "2026-08-14T10:45:02.664Z",
     "original_repository": "sindresorhus/promise-fun",
     "original_repository_sha": "96222bb8e778a8d686375e8ee1595ec009544eb1",
     "enhanced_repository": "enhansome/enhansome-promise-fun",
