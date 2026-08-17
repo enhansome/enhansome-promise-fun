@@ -11,8 +11,8 @@ I intend to use this space to document my promise modules, useful promise patter
 
 *Not accepting additions, but happy to take requests.*
 
-* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,259 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-22**: Promise queue with concurrency control
-* **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,912 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20**: Run multiple promise-returning & async functions with limited concurrency
+* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,261 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-22**: Promise queue with concurrency control
+* **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,913 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20**: Run multiple promise-returning & async functions with limited concurrency
 * **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,507 | 🐛 12 | 🌐 JavaScript | 📅 2026-07-20**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,503 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23**: Promisify a callback-style function
 * **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,025 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-26**: Retry a promise-returning or async function
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
