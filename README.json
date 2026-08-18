@@ -28,7 +28,7 @@
             "last_commit": "2026-07-20T20:18:50Z",
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2913
+            "stars": 2914
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-03-26T16:08:20Z",
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1025
+            "stars": 1026
           }
         },
         {
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:18:46.784Z",
+    "last_updated": "2026-08-18T10:15:12.179Z",
     "original_repository": "sindresorhus/promise-fun",
     "original_repository_sha": "96222bb8e778a8d686375e8ee1595ec009544eb1",
     "enhanced_repository": "enhansome/enhansome-promise-fun",
