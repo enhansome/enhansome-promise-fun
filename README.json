@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72200120,
             "language": "TypeScript",
             "last_commit": "2026-07-22T20:25:14Z",
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4261
+            "stars": 4262
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71542716,
             "language": "JavaScript",
             "last_commit": "2026-07-20T20:18:50Z",
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2914
+            "stars": 2915
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71526722,
             "language": "JavaScript",
             "last_commit": "2026-07-20T21:21:12Z",
             "owner": "sindresorhus",
             "repo": "p-map",
-            "stars": 1507
+            "stars": 1508
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41585934,
             "language": "JavaScript",
             "last_commit": "2026-07-23T12:49:04Z",
             "owner": "sindresorhus",
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71542126,
             "language": "JavaScript",
             "last_commit": "2026-03-26T16:08:20Z",
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1026
+            "stars": 1028
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103123260,
             "language": "TypeScript",
             "last_commit": "2023-11-04T14:35:59Z",
             "owner": "sindresorhus",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46072466,
             "language": "JavaScript",
             "last_commit": "2025-10-31T16:34:15Z",
             "owner": "sindresorhus",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71544230,
             "language": "JavaScript",
             "last_commit": "2025-11-08T05:21:43Z",
             "owner": "sindresorhus",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89505640,
             "language": "JavaScript",
             "last_commit": "2026-03-14T08:00:21Z",
             "owner": "sindresorhus",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74961999,
             "language": "JavaScript",
             "last_commit": "2025-09-09T09:35:14Z",
             "owner": "sindresorhus",
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71544860,
             "language": "TypeScript",
             "last_commit": "2026-07-26T07:14:57Z",
             "owner": "sindresorhus",
             "repo": "p-memoize",
-            "stars": 448
+            "stars": 449
           }
         },
         {
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71527663,
             "language": "TypeScript",
             "last_commit": "2025-09-18T05:55:57Z",
             "owner": "sindresorhus",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288510978,
             "language": "JavaScript",
             "last_commit": "2026-02-13T06:09:22Z",
             "owner": "sindresorhus",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71537368,
             "language": "JavaScript",
             "last_commit": "2025-10-07T01:46:07Z",
             "owner": "sindresorhus",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73060555,
             "language": "JavaScript",
             "last_commit": "2024-10-28T06:52:02Z",
             "owner": "sindresorhus",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71543534,
             "language": "JavaScript",
             "last_commit": "2025-11-11T08:28:18Z",
             "owner": "sindresorhus",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71528422,
             "language": "JavaScript",
             "last_commit": "2025-09-21T06:45:21Z",
             "owner": "sindresorhus",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74273625,
             "language": "JavaScript",
             "last_commit": "2025-09-25T06:27:37Z",
             "owner": "sindresorhus",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71538128,
             "language": "JavaScript",
             "last_commit": "2025-09-21T04:41:21Z",
             "owner": "sindresorhus",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 791741481,
             "language": "JavaScript",
             "last_commit": "2025-07-06T12:35:05Z",
             "owner": "sindresorhus",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315020636,
             "language": "JavaScript",
             "last_commit": "2025-09-23T17:22:21Z",
             "owner": "sindresorhus",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71531453,
             "language": "TypeScript",
             "last_commit": "2021-04-08T14:00:29Z",
             "owner": "sindresorhus",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107859269,
             "language": "JavaScript",
             "last_commit": "2021-10-01T08:55:07Z",
             "owner": "sindresorhus",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71535711,
             "language": "JavaScript",
             "last_commit": "2026-04-11T03:44:34Z",
             "owner": "sindresorhus",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71531782,
             "language": "JavaScript",
             "last_commit": "2025-09-08T11:20:20Z",
             "owner": "sindresorhus",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71528845,
             "language": "JavaScript",
             "last_commit": "2026-03-22T08:16:32Z",
             "owner": "sindresorhus",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74265632,
             "language": "JavaScript",
             "last_commit": "2026-02-03T07:57:52Z",
             "owner": "sindresorhus",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74446553,
             "language": "TypeScript",
             "last_commit": "2025-09-11T19:15:53Z",
             "owner": "sindresorhus",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71529248,
             "language": "JavaScript",
             "last_commit": "2023-02-11T08:31:44Z",
             "owner": "sindresorhus",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63110210,
             "language": "JavaScript",
             "last_commit": "2023-11-05T20:54:35Z",
             "owner": "sindresorhus",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74446387,
             "language": "JavaScript",
             "last_commit": "2021-08-12T23:31:55Z",
             "owner": "sindresorhus",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45054860,
             "language": "JavaScript",
             "last_commit": "2021-04-09T06:11:17Z",
             "owner": "sindresorhus",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71534796,
             "language": "JavaScript",
             "last_commit": "2025-09-16T02:55:43Z",
             "owner": "sindresorhus",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71532789,
             "language": "JavaScript",
             "last_commit": "2022-07-09T03:54:12Z",
             "owner": "sindresorhus",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46364652,
             "language": "JavaScript",
             "last_commit": "2024-10-16T14:39:19Z",
             "owner": "sindresorhus",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74806351,
             "language": "JavaScript",
             "last_commit": "2025-09-11T17:21:47Z",
             "owner": "sindresorhus",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71530968,
             "language": "JavaScript",
             "last_commit": "2022-07-08T15:21:29Z",
             "owner": "sindresorhus",
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74115548,
             "language": "JavaScript",
             "last_commit": "2026-06-16T15:18:01Z",
             "owner": "sindresorhus",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71536740,
             "language": "JavaScript",
             "last_commit": "2022-12-13T15:14:20Z",
             "owner": "sindresorhus",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71529706,
             "language": "JavaScript",
             "last_commit": "2021-04-09T06:29:45Z",
             "owner": "sindresorhus",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74813531,
             "language": "JavaScript",
             "last_commit": "2021-04-16T07:02:44Z",
             "owner": "sindresorhus",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71643747,
             "language": "JavaScript",
             "last_commit": "2021-10-04T16:20:37Z",
             "owner": "sindresorhus",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71532242,
             "language": "JavaScript",
             "last_commit": "2025-09-11T13:21:12Z",
             "owner": "sindresorhus",
@@ -612,105 +655,102 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95914823,
             "language": "JavaScript",
             "last_commit": "2024-08-29T16:10:16Z",
             "owner": "sindresorhus",
             "repo": "p-do-whilst",
             "stars": 38
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "p-tap: Tap into a promise chain without affecting its value or state",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71538817,
+                "language": "JavaScript",
+                "last_commit": "2021-04-08T18:47:29Z",
+                "owner": "sindresorhus",
+                "repo": "p-tap",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-if: Conditional promise chains",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71539394,
+                "language": "TypeScript",
+                "last_commit": "2021-04-09T06:05:43Z",
+                "owner": "sindresorhus",
+                "repo": "p-if",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-catch-if: Conditional promise catch handler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71648929,
+                "language": "JavaScript",
+                "last_commit": "2021-04-09T05:11:40Z",
+                "owner": "sindresorhus",
+                "repo": "p-catch-if",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-log: Log the value/error of a promise",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71540770,
+                "language": "JavaScript",
+                "last_commit": "2021-04-09T06:24:46Z",
+                "owner": "sindresorhus",
+                "repo": "p-log",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-break: Break out of a promise chain",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73466636,
+                "language": "JavaScript",
+                "last_commit": "2021-04-07T07:29:33Z",
+                "owner": "sindresorhus",
+                "repo": "p-break",
+                "stars": 24
+              }
+            }
+          ],
+          "description": "You should generally avoid using except in edge cases.",
+          "node_type": "group",
+          "title": "/-based packages"
         }
       ],
       "title": "Packages"
-    },
-    {
-      "description": "You should generally avoid using except in edge cases.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "p-tap: Tap into a promise chain without affecting its value or state",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-08T18:47:29Z",
-            "owner": "sindresorhus",
-            "repo": "p-tap",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-if: Conditional promise chains",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-04-09T06:05:43Z",
-            "owner": "sindresorhus",
-            "repo": "p-if",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-catch-if: Conditional promise catch handler",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-09T05:11:40Z",
-            "owner": "sindresorhus",
-            "repo": "p-catch-if",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-log: Log the value/error of a promise",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-09T06:24:46Z",
-            "owner": "sindresorhus",
-            "repo": "p-log",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-break: Break out of a promise chain",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-07T07:29:33Z",
-            "owner": "sindresorhus",
-            "repo": "p-break",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "/-based packages"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "FAQ"
-    },
-    {
-      "description": "This is a good use-case for . You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time starts reading the array, all the actions creating those promises have already started running. works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out instead if you're using different functions to get each promise.",
-      "items": [],
-      "title": "How can I run 100 async/promise-returning functions with only 5 running at once?"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:15:12.179Z",
+    "last_updated": "2026-08-19T10:15:46.507Z",
     "original_repository": "sindresorhus/promise-fun",
     "original_repository_sha": "96222bb8e778a8d686375e8ee1595ec009544eb1",
     "enhanced_repository": "enhansome/enhansome-promise-fun",
