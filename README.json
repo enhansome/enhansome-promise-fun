@@ -750,8 +750,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:15:46.507Z",
+    "last_updated": "2026-08-19T12:45:19.433Z",
     "original_repository": "sindresorhus/promise-fun",
+    "original_repository_id": 71446428,
     "original_repository_sha": "96222bb8e778a8d686375e8ee1595ec009544eb1",
     "enhanced_repository": "enhansome/enhansome-promise-fun",
     "enhanced_repository_description": null,
