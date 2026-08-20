@@ -39,9 +39,9 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-filter](https://github.com/sindresorhus/p-filter) ⭐ 83 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-22**: Filter promises concurrently
 * **[p-locate](https://github.com/sindresorhus/p-locate) ⭐ 82 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03**: Get the first fulfilled promise that satisfies the provided testing function
 * **[p-waterfall](https://github.com/sindresorhus/p-waterfall) ⭐ 79 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-11**: Run promise-returning & async functions in series, each passing its result to the next
-* **[p-reduce](https://github.com/sindresorhus/p-reduce) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-11**: Reduce a list of values using promises into a promise for a value
 * **[p-time](https://github.com/sindresorhus/p-time) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-05**: Measure the time a promise takes to resolve
 * **[p-series](https://github.com/sindresorhus/p-series) ⭐ 73 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-12**: Run promise-returning & async functions in series
+* **[p-reduce](https://github.com/sindresorhus/p-reduce) ⭐ 73 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-11**: Reduce a list of values using promises into a promise for a value
 * **[p-immediate](https://github.com/sindresorhus/p-immediate) ⭐ 71 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-09**: Returns a promise resolved in the next event loop - think `setImmediate()`
 * **[p-try](https://github.com/sindresorhus/p-try) ⭐ 62 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-16**: `Promise.try()` ponyfill - Starts a promise chain
 * **[p-any](https://github.com/sindresorhus/p-any) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-09**: Wait for any promise to be fulfilled
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

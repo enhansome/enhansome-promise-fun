@@ -425,21 +425,6 @@
         },
         {
           "node_type": "item",
-          "title": "p-reduce: Reduce a list of values using promises into a promise for a value",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 71529248,
-            "language": "JavaScript",
-            "last_commit": "2023-02-11T08:31:44Z",
-            "owner": "sindresorhus",
-            "repo": "p-reduce",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
           "title": "p-time: Measure the time a promise takes to resolve",
           "description": null,
           "children": [],
@@ -465,6 +450,21 @@
             "last_commit": "2021-08-12T23:31:55Z",
             "owner": "sindresorhus",
             "repo": "p-series",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p-reduce: Reduce a list of values using promises into a promise for a value",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71529248,
+            "language": "JavaScript",
+            "last_commit": "2023-02-11T08:31:44Z",
+            "owner": "sindresorhus",
+            "repo": "p-reduce",
             "stars": 73
           }
         },
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:45:19.433Z",
+    "last_updated": "2026-08-20T10:17:07.547Z",
     "original_repository": "sindresorhus/promise-fun",
     "original_repository_id": 71446428,
     "original_repository_sha": "96222bb8e778a8d686375e8ee1595ec009544eb1",
