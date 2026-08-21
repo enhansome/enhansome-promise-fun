@@ -125,21 +125,6 @@
         },
         {
           "node_type": "item",
-          "title": "p-event: Promisify an event by waiting for it to be emitted",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 89505640,
-            "language": "JavaScript",
-            "last_commit": "2026-03-14T08:00:21Z",
-            "owner": "sindresorhus",
-            "repo": "p-event",
-            "stars": 451
-          }
-        },
-        {
-          "node_type": "item",
           "title": "p-cancelable: Create a promise that can be canceled",
           "description": null,
           "children": [],
@@ -151,6 +136,21 @@
             "owner": "sindresorhus",
             "repo": "p-cancelable",
             "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p-event: Promisify an event by waiting for it to be emitted",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89505640,
+            "language": "JavaScript",
+            "last_commit": "2026-03-14T08:00:21Z",
+            "owner": "sindresorhus",
+            "repo": "p-event",
+            "stars": 450
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2025-11-11T08:28:18Z",
             "owner": "sindresorhus",
             "repo": "p-debounce",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2025-09-21T06:45:21Z",
             "owner": "sindresorhus",
             "repo": "p-props",
-            "stars": 202
+            "stars": 201
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2025-07-06T12:35:05Z",
             "owner": "sindresorhus",
             "repo": "p-mutex",
-            "stars": 143
+            "stars": 142
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2025-09-23T17:22:21Z",
             "owner": "sindresorhus",
             "repo": "p-state",
-            "stars": 134
+            "stars": 133
           }
         },
         {
@@ -380,21 +380,6 @@
         },
         {
           "node_type": "item",
-          "title": "p-filter: Filter promises concurrently",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 71528845,
-            "language": "JavaScript",
-            "last_commit": "2026-03-22T08:16:32Z",
-            "owner": "sindresorhus",
-            "repo": "p-filter",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
           "title": "p-locate: Get the first fulfilled promise that satisfies the provided testing function",
           "description": null,
           "children": [],
@@ -405,6 +390,21 @@
             "last_commit": "2026-02-03T07:57:52Z",
             "owner": "sindresorhus",
             "repo": "p-locate",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p-filter: Filter promises concurrently",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71528845,
+            "language": "JavaScript",
+            "last_commit": "2026-03-22T08:16:32Z",
+            "owner": "sindresorhus",
+            "repo": "p-filter",
             "stars": 82
           }
         },
@@ -500,21 +500,6 @@
         },
         {
           "node_type": "item",
-          "title": "p-any: Wait for any promise to be fulfilled",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 71532789,
-            "language": "JavaScript",
-            "last_commit": "2022-07-09T03:54:12Z",
-            "owner": "sindresorhus",
-            "repo": "p-any",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
           "title": "p-whilst: While a condition returns true, calls a function repeatedly, and then resolves the promise",
           "description": null,
           "children": [],
@@ -526,6 +511,21 @@
             "owner": "sindresorhus",
             "repo": "p-whilst",
             "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p-any: Wait for any promise to be fulfilled",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71532789,
+            "language": "JavaScript",
+            "last_commit": "2022-07-09T03:54:12Z",
+            "owner": "sindresorhus",
+            "repo": "p-any",
+            "stars": 56
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2022-07-08T15:21:29Z",
             "owner": "sindresorhus",
             "repo": "p-each-series",
-            "stars": 53
+            "stars": 52
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2025-09-11T13:21:12Z",
             "owner": "sindresorhus",
             "repo": "p-some",
-            "stars": 40
+            "stars": 39
           }
         },
         {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:17:07.547Z",
+    "last_updated": "2026-08-21T10:17:04.453Z",
     "original_repository": "sindresorhus/promise-fun",
     "original_repository_id": 71446428,
     "original_repository_sha": "96222bb8e778a8d686375e8ee1595ec009544eb1",
