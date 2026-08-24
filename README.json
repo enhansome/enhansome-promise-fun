@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "p-queue: Promise queue with concurrency control",
-          "description": null,
+          "title": "p-queue",
+          "description": "Promise queue with concurrency control",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-limit: Run multiple promise-returning & async functions with limited concurrency",
-          "description": null,
+          "title": "p-limit",
+          "description": "Run multiple promise-returning & async functions with limited concurrency",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-map: Map over promises concurrently",
-          "description": null,
+          "title": "p-map",
+          "description": "Map over promises concurrently",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "pify: Promisify a callback-style function",
-          "description": null,
+          "title": "pify",
+          "description": "Promisify a callback-style function",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-retry: Retry a promise-returning or async function",
-          "description": null,
+          "title": "p-retry",
+          "description": "Retry a promise-returning or async function",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-progress: Create a promise that reports progress",
-          "description": null,
+          "title": "p-progress",
+          "description": "Create a promise that reports progress",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "delay: Delay a promise a specified amount of time",
-          "description": null,
+          "title": "delay",
+          "description": "Delay a promise a specified amount of time",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-throttle: Throttle promise-returning & async functions",
-          "description": null,
+          "title": "p-throttle",
+          "description": "Throttle promise-returning & async functions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-cancelable: Create a promise that can be canceled",
-          "description": null,
+          "title": "p-cancelable",
+          "description": "Create a promise that can be canceled",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-event: Promisify an event by waiting for it to be emitted",
-          "description": null,
+          "title": "p-event",
+          "description": "Promisify an event by waiting for it to be emitted",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-memoize: Memoize promise-returning & async functions",
-          "description": null,
+          "title": "p-memoize",
+          "description": "Memoize promise-returning & async functions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,8 +170,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-all: Run promise-returning & async functions concurrently with optional limited concurrency",
-          "description": null,
+          "title": "p-all",
+          "description": "Run promise-returning & async functions concurrently with optional limited concurrency",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "make-synchronous: Make an asynchronous function synchronous",
-          "description": null,
+          "title": "make-synchronous",
+          "description": "Make an asynchronous function synchronous",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-timeout: Timeout a promise after a specified amount of time",
-          "description": null,
+          "title": "p-timeout",
+          "description": "Timeout a promise after a specified amount of time",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-lazy: Create a lazy promise that defers execution until or is called",
-          "description": null,
+          "title": "p-lazy",
+          "description": "Create a lazy promise that defers execution until or is called",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,8 +230,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-debounce: Debounce promise-returning & async functions",
-          "description": null,
+          "title": "p-debounce",
+          "description": "Debounce promise-returning & async functions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,8 +245,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-props: Like but for and",
-          "description": null,
+          "title": "p-props",
+          "description": "Like but for and",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,8 +260,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-min-delay: Delay a promise a minimum amount of time",
-          "description": null,
+          "title": "p-min-delay",
+          "description": "Delay a promise a minimum amount of time",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,8 +275,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-wait-for: Wait for a condition to be true",
-          "description": null,
+          "title": "p-wait-for",
+          "description": "Wait for a condition to be true",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,8 +290,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-mutex: Ensure that only one operation accesses a particular resource at a time",
-          "description": null,
+          "title": "p-mutex",
+          "description": "Ensure that only one operation accesses a particular resource at a time",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -305,8 +305,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-state: Inspect the state of a promise",
-          "description": null,
+          "title": "p-state",
+          "description": "Inspect the state of a promise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -320,8 +320,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-pipe: Compose promise-returning & async functions into a reusable pipeline",
-          "description": null,
+          "title": "p-pipe",
+          "description": "Compose promise-returning & async functions into a reusable pipeline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,8 +335,8 @@
         },
         {
           "node_type": "item",
-          "title": "yoctodelay: Delay a promise a specified amount of time",
-          "description": null,
+          "title": "yoctodelay",
+          "description": "Delay a promise a specified amount of time",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -350,8 +350,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-settle: Settle promises concurrently and get their fulfillment value or rejection reason with optional limited concurrency",
-          "description": null,
+          "title": "p-settle",
+          "description": "Settle promises concurrently and get their fulfillment value or rejection reason with optional limited concurrency",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,8 +365,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-defer: Create a deferred promise",
-          "description": null,
+          "title": "p-defer",
+          "description": "Create a deferred promise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,8 +380,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-locate: Get the first fulfilled promise that satisfies the provided testing function",
-          "description": null,
+          "title": "p-locate",
+          "description": "Get the first fulfilled promise that satisfies the provided testing function",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,8 +395,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-filter: Filter promises concurrently",
-          "description": null,
+          "title": "p-filter",
+          "description": "Filter promises concurrently",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,8 +410,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-waterfall: Run promise-returning & async functions in series, each passing its result to the next",
-          "description": null,
+          "title": "p-waterfall",
+          "description": "Run promise-returning & async functions in series, each passing its result to the next",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -425,8 +425,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-time: Measure the time a promise takes to resolve",
-          "description": null,
+          "title": "p-time",
+          "description": "Measure the time a promise takes to resolve",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,8 +440,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-series: Run promise-returning & async functions in series",
-          "description": null,
+          "title": "p-series",
+          "description": "Run promise-returning & async functions in series",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,8 +455,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-reduce: Reduce a list of values using promises into a promise for a value",
-          "description": null,
+          "title": "p-reduce",
+          "description": "Reduce a list of values using promises into a promise for a value",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,8 +470,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-immediate: Returns a promise resolved in the next event loop - think",
-          "description": null,
+          "title": "p-immediate",
+          "description": "Returns a promise resolved in the next event loop - think",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -485,8 +485,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-try: ponyfill - Starts a promise chain",
-          "description": null,
+          "title": "p-try",
+          "description": "ponyfill - Starts a promise chain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,8 +500,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-whilst: While a condition returns true, calls a function repeatedly, and then resolves the promise",
-          "description": null,
+          "title": "p-whilst",
+          "description": "While a condition returns true, calls a function repeatedly, and then resolves the promise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,8 +515,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-any: Wait for any promise to be fulfilled",
-          "description": null,
+          "title": "p-any",
+          "description": "Wait for any promise to be fulfilled",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,8 +530,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-reflect: Make a promise always fulfill with its actual fulfillment value or rejection reason",
-          "description": null,
+          "title": "p-reflect",
+          "description": "Make a promise always fulfill with its actual fulfillment value or rejection reason",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -545,8 +545,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-each-series: Iterate over promises serially",
-          "description": null,
+          "title": "p-each-series",
+          "description": "Iterate over promises serially",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,8 +560,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-forever: Run promise-returning & async functions repeatedly until you end it",
-          "description": null,
+          "title": "p-forever",
+          "description": "Run promise-returning & async functions repeatedly until you end it",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,8 +575,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-race: A better",
-          "description": null,
+          "title": "p-race",
+          "description": "A better",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -590,8 +590,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-map-series: Map over promises serially",
-          "description": null,
+          "title": "p-map-series",
+          "description": "Map over promises serially",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -605,8 +605,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-is-promise: Check if something is a promise",
-          "description": null,
+          "title": "p-is-promise",
+          "description": "Check if something is a promise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -620,8 +620,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-times: Run promise-returning & async functions a specific number of times concurrently",
-          "description": null,
+          "title": "p-times",
+          "description": "Run promise-returning & async functions a specific number of times concurrently",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,8 +635,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-some: Wait for a specified number of promises to be fulfilled",
-          "description": null,
+          "title": "p-some",
+          "description": "Wait for a specified number of promises to be fulfilled",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,8 +650,8 @@
         },
         {
           "node_type": "item",
-          "title": "p-do-whilst: Calls a function repeatedly while a condition returns true and then resolves the promise",
-          "description": null,
+          "title": "p-do-whilst",
+          "description": "Calls a function repeatedly while a condition returns true and then resolves the promise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -667,8 +667,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "p-tap: Tap into a promise chain without affecting its value or state",
-              "description": null,
+              "title": "p-tap",
+              "description": "Tap into a promise chain without affecting its value or state",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -682,8 +682,8 @@
             },
             {
               "node_type": "item",
-              "title": "p-if: Conditional promise chains",
-              "description": null,
+              "title": "p-if",
+              "description": "Conditional promise chains",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -697,8 +697,8 @@
             },
             {
               "node_type": "item",
-              "title": "p-catch-if: Conditional promise catch handler",
-              "description": null,
+              "title": "p-catch-if",
+              "description": "Conditional promise catch handler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -712,8 +712,8 @@
             },
             {
               "node_type": "item",
-              "title": "p-log: Log the value/error of a promise",
-              "description": null,
+              "title": "p-log",
+              "description": "Log the value/error of a promise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -727,8 +727,8 @@
             },
             {
               "node_type": "item",
-              "title": "p-break: Break out of a promise chain",
-              "description": null,
+              "title": "p-break",
+              "description": "Break out of a promise chain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:25:23.450Z",
+    "last_updated": "2026-08-24T13:53:08.966Z",
     "original_repository": "sindresorhus/promise-fun",
     "original_repository_id": 71446428,
     "original_repository_sha": "96222bb8e778a8d686375e8ee1595ec009544eb1",
