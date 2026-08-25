@@ -15,7 +15,7 @@
             "last_commit": "2026-07-22T20:25:14Z",
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4263
+            "stars": 4264
           }
         },
         {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:11.972Z",
+    "last_updated": "2026-08-25T10:18:52.018Z",
     "original_repository": "sindresorhus/promise-fun",
     "original_repository_id": 71446428,
     "original_repository_sha": "96222bb8e778a8d686375e8ee1595ec009544eb1",
