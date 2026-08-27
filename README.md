@@ -11,7 +11,7 @@ I intend to use this space to document my promise modules, useful promise patter
 
 *Not accepting additions, but happy to take requests.*
 
-* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,266 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22**: Promise queue with concurrency control
+* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,265 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22**: Promise queue with concurrency control
 * **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,919 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20**: Run multiple promise-returning & async functions with limited concurrency
 * **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,510 | 🐛 12 | 🌐 JavaScript | 📅 2026-07-20**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,503 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23**: Promisify a callback-style function
