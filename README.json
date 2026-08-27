@@ -15,7 +15,7 @@
             "last_commit": "2026-07-22T20:25:14Z",
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4264
+            "stars": 4266
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-03-26T16:08:20Z",
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1027
+            "stars": 1028
           }
         },
         {
@@ -750,9 +750,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:22:09.261Z",
-    "original_repository": "sindresorhus/promise-fun",
-    "original_repository_id": 71446428,
+    "last_updated": "2026-08-27T11:56:55.257Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 71446428,
+      "language": null,
+      "last_commit": "2024-04-25T09:36:15Z",
+      "owner": "sindresorhus",
+      "repo": "promise-fun",
+      "stars": 5166
+    },
     "original_repository_sha": "96222bb8e778a8d686375e8ee1595ec009544eb1",
     "enhanced_repository": "enhansome/enhansome-promise-fun",
     "enhanced_repository_description": null,
