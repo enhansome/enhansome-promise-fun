@@ -16,7 +16,8 @@
             "owner": "sindresorhus",
             "repo": "p-queue",
             "stars": 4265
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "sindresorhus",
             "repo": "p-limit",
             "stars": 2919
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 71526722,
             "language": "JavaScript",
-            "last_commit": "2026-07-20T21:21:12Z",
+            "last_commit": "2026-08-27T23:42:36Z",
             "owner": "sindresorhus",
             "repo": "p-map",
             "stars": 1510
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "sindresorhus",
             "repo": "pify",
             "stars": 1503
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "sindresorhus",
             "repo": "p-retry",
             "stars": 1028
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "sindresorhus",
             "repo": "p-progress",
             "stars": 768
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "sindresorhus",
             "repo": "delay",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "sindresorhus",
             "repo": "p-throttle",
             "stars": 518
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "sindresorhus",
             "repo": "p-cancelable",
             "stars": 451
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "sindresorhus",
             "repo": "p-event",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "sindresorhus",
             "repo": "p-memoize",
             "stars": 449
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "sindresorhus",
             "repo": "p-all",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "sindresorhus",
             "repo": "make-synchronous",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "sindresorhus",
             "repo": "p-timeout",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "sindresorhus",
             "repo": "p-lazy",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "sindresorhus",
             "repo": "p-debounce",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "sindresorhus",
             "repo": "p-props",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "sindresorhus",
             "repo": "p-min-delay",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "sindresorhus",
             "repo": "p-wait-for",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "sindresorhus",
             "repo": "p-mutex",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "sindresorhus",
             "repo": "p-state",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "sindresorhus",
             "repo": "p-pipe",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "sindresorhus",
             "repo": "yoctodelay",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "sindresorhus",
             "repo": "p-settle",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "sindresorhus",
             "repo": "p-defer",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "sindresorhus",
             "repo": "p-locate",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "sindresorhus",
             "repo": "p-filter",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "sindresorhus",
             "repo": "p-waterfall",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "sindresorhus",
             "repo": "p-time",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "sindresorhus",
             "repo": "p-series",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -466,7 +496,8 @@
             "owner": "sindresorhus",
             "repo": "p-reduce",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -481,7 +512,8 @@
             "owner": "sindresorhus",
             "repo": "p-immediate",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -496,7 +528,8 @@
             "owner": "sindresorhus",
             "repo": "p-try",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -511,7 +544,8 @@
             "owner": "sindresorhus",
             "repo": "p-whilst",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -526,7 +560,8 @@
             "owner": "sindresorhus",
             "repo": "p-any",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -541,7 +576,8 @@
             "owner": "sindresorhus",
             "repo": "p-reflect",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -556,7 +592,8 @@
             "owner": "sindresorhus",
             "repo": "p-each-series",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -571,7 +608,8 @@
             "owner": "sindresorhus",
             "repo": "p-forever",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -586,7 +624,8 @@
             "owner": "sindresorhus",
             "repo": "p-race",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -601,7 +640,8 @@
             "owner": "sindresorhus",
             "repo": "p-map-series",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -616,7 +656,8 @@
             "owner": "sindresorhus",
             "repo": "p-is-promise",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -631,7 +672,8 @@
             "owner": "sindresorhus",
             "repo": "p-times",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -646,7 +688,8 @@
             "owner": "sindresorhus",
             "repo": "p-some",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "node_type": "item",
@@ -661,7 +704,8 @@
             "owner": "sindresorhus",
             "repo": "p-do-whilst",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
         },
         {
           "children": [
@@ -678,7 +722,8 @@
                 "owner": "sindresorhus",
                 "repo": "p-tap",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T21:00:57.862Z"
             },
             {
               "node_type": "item",
@@ -693,7 +738,8 @@
                 "owner": "sindresorhus",
                 "repo": "p-if",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T21:00:57.862Z"
             },
             {
               "node_type": "item",
@@ -708,7 +754,8 @@
                 "owner": "sindresorhus",
                 "repo": "p-catch-if",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:00:57.862Z"
             },
             {
               "node_type": "item",
@@ -723,7 +770,8 @@
                 "owner": "sindresorhus",
                 "repo": "p-log",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:00:57.862Z"
             },
             {
               "node_type": "item",
@@ -738,7 +786,8 @@
                 "owner": "sindresorhus",
                 "repo": "p-break",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T21:00:57.862Z"
             }
           ],
           "description": "You should generally avoid using except in edge cases.",
@@ -750,7 +799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:01:33.012Z",
+    "last_updated": "2026-08-28T21:00:57.862Z",
     "original_repository_info": {
       "archived": false,
       "id": 71446428,
