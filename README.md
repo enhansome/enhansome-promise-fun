@@ -12,7 +12,7 @@ I intend to use this space to document my promise modules, useful promise patter
 *Not accepting additions, but happy to take requests.*
 
 * **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,265 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22**: Promise queue with concurrency control
-* **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,919 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20**: Run multiple promise-returning & async functions with limited concurrency
+* **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,920 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20**: Run multiple promise-returning & async functions with limited concurrency
 * **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,510 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-27**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,503 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23**: Promisify a callback-style function
 * **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,028 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-26**: Retry a promise-returning or async function
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
