@@ -45,11 +45,11 @@
             "id": 71542716,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-20T20:18:50Z",
+            "last_commit": "2026-08-31T16:49:14Z",
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2920,
+            "stars": 2919,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -126,10 +126,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-26T16:08:20Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1028,
+            "stars": 1029,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:32:17.670Z",
+    "last_updated": "2026-08-31T17:15:57.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
@@ -1087,7 +1087,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "promise-fun",
-      "stars": 5166,
+      "stars": 5167,
       "topics": [
         "async",
         "async-await",
