@@ -125,8 +125,8 @@
             "id": 71542126,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-03-26T16:08:20Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-01T13:14:39Z",
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-retry",
             "stars": 1029,
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:15:57.000Z",
+    "last_updated": "2026-09-01T14:21:06.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
