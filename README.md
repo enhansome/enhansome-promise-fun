@@ -24,7 +24,7 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-memoize](https://github.com/sindresorhus/p-memoize) ⭐ 449 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-26**: Memoize promise-returning & async functions
 * **[p-all](https://github.com/sindresorhus/p-all) ⭐ 345 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-18**: Run promise-returning & async functions concurrently with optional limited concurrency
 * **[make-synchronous](https://github.com/sindresorhus/make-synchronous) ⭐ 332 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-13**: Make an asynchronous function synchronous
-* **[p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 305 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-07**: Timeout a promise after a specified amount of time
+* **[p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 306 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-07**: Timeout a promise after a specified amount of time
 * **[p-lazy](https://github.com/sindresorhus/p-lazy) ⭐ 286 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-28**: Create a lazy promise that defers execution until `.then()` or `.catch()` is called
 * **[p-debounce](https://github.com/sindresorhus/p-debounce) ⭐ 238 | 🐛 4 | 🌐 JavaScript | 📅 2025-11-11**: Debounce promise-returning & async functions
 * **[p-props](https://github.com/sindresorhus/p-props) ⭐ 201 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21**: Like `Promise.all()` but for `Map` and `Object`
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

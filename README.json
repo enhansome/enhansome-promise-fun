@@ -318,7 +318,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-timeout",
-            "stars": 305,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:04:07.464Z",
+    "last_updated": "2026-09-06T13:13:18.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
