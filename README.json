@@ -129,7 +129,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1029,
+            "stars": 1030,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -255,7 +255,7 @@
             "open_issues": 3,
             "owner": "sindresorhus",
             "repo": "p-memoize",
-            "stars": 449,
+            "stars": 450,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:13:18.034Z",
+    "last_updated": "2026-09-07T15:20:39.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
