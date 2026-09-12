@@ -67,10 +67,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-27T23:42:36Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "sindresorhus",
             "repo": "p-map",
-            "stars": 1510,
+            "stars": 1511,
             "topics": [
               "async",
               "async-await",
@@ -129,7 +129,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1032,
+            "stars": 1033,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -171,7 +171,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "delay",
-            "stars": 624,
+            "stars": 623,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -189,7 +189,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-11-08T05:21:43Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-throttle",
             "stars": 521,
@@ -252,7 +252,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-14T08:00:21Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-event",
             "stars": 450,
@@ -315,7 +315,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-10-07T01:46:07Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-timeout",
             "stars": 307,
@@ -357,7 +357,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-11-11T08:28:18Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "sindresorhus",
             "repo": "p-debounce",
             "stars": 238,
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:54:38.445Z",
+    "last_updated": "2026-09-12T13:11:46.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
