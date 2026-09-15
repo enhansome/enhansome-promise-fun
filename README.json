@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4271,
+            "stars": 4272,
             "topics": [
               "async-functions",
               "async-queue",
@@ -192,7 +192,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-throttle",
-            "stars": 521,
+            "stars": 522,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -251,8 +251,8 @@
             "id": 89505640,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-03-14T08:00:21Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-14T21:11:12Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-event",
             "stars": 450,
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:00:47.087Z",
+    "last_updated": "2026-09-15T14:30:42.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
