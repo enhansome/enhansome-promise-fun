@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:24:34.226Z",
+    "last_updated": "2026-09-17T14:29:45.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
@@ -1087,7 +1087,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "promise-fun",
-      "stars": 5171,
+      "stars": 5172,
       "topics": [
         "async",
         "async-await",
