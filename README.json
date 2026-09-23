@@ -444,7 +444,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-mutex",
-            "stars": 142,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:13:11.926Z",
+    "last_updated": "2026-09-23T14:28:51.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",

@@ -30,7 +30,7 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-props](https://github.com/sindresorhus/p-props) ⭐ 201 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21**: Like `Promise.all()` but for `Map` and `Object`
 * **[p-min-delay](https://github.com/sindresorhus/p-min-delay) ⭐ 177 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-25**: Delay a promise a minimum amount of time
 * **[p-wait-for](https://github.com/sindresorhus/p-wait-for) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Wait for a condition to be true
-* **[p-mutex](https://github.com/sindresorhus/p-mutex) ⭐ 142 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-06**: Ensure that only one operation accesses a particular resource at a time
+* **[p-mutex](https://github.com/sindresorhus/p-mutex) ⭐ 141 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-06**: Ensure that only one operation accesses a particular resource at a time
 * **[p-state](https://github.com/sindresorhus/p-state) ⭐ 133 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-23**: Inspect the state of a promise
 * **[p-pipe](https://github.com/sindresorhus/p-pipe) ⭐ 131 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18**: Compose promise-returning & async functions into a reusable pipeline
 * **[yoctodelay](https://github.com/sindresorhus/yoctodelay) ⭐ 120 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-01**: Delay a promise a specified amount of time
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
