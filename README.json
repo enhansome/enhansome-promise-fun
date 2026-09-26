@@ -70,7 +70,7 @@
             "open_issues": 12,
             "owner": "sindresorhus",
             "repo": "p-map",
-            "stars": 1511,
+            "stars": 1512,
             "topics": [
               "async",
               "async-await",
@@ -104,7 +104,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "pify",
-            "stars": 1501,
+            "stars": 1502,
             "topics": [
               "promise-utilities",
               "promises",
@@ -293,7 +293,7 @@
             "id": 288510978,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-02-13T06:09:22Z",
+            "last_commit": "2026-09-26T10:19:37Z",
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "make-synchronous",
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:48:48.857Z",
+    "last_updated": "2026-09-26T13:55:28.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
