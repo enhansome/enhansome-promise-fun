@@ -11,10 +11,10 @@ I intend to use this space to document my promise modules, useful promise patter
 
 *Not accepting additions, but happy to take requests.*
 
-* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,277 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22**: Promise queue with concurrency control
-* **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,927 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
-* **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,512 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-18**: Map over promises concurrently
-* **[pify](https://github.com/sindresorhus/pify) ⭐ 1,502 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Promisify a callback-style function
+* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,276 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22**: Promise queue with concurrency control
+* **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,928 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
+* **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,514 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-28**: Map over promises concurrently
+* **[pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Promisify a callback-style function
 * **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,035 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18**: Retry a promise-returning or async function
 * **[p-progress](https://github.com/sindresorhus/p-progress) ⭐ 766 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-04**: Create a promise that reports progress
 * **[delay](https://github.com/sindresorhus/delay) ⭐ 623 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Delay a promise a specified amount of time
@@ -70,7 +70,7 @@ I intend to use this space to document my promise modules, useful promise patter
 
 ### How can I run 100 async/promise-returning functions with only 5 running at once?
 
-This is a good use-case for [`p-map`](https://github.com/sindresorhus/p-map) ⭐ 1,512 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-18. You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time `p-map` starts reading the array, all the actions creating those promises have already started running. `p-map` works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out [`p-all`](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 instead if you're using different functions to get each promise.
+This is a good use-case for [`p-map`](https://github.com/sindresorhus/p-map) ⭐ 1,514 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-28. You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time `p-map` starts reading the array, all the actions creating those promises have already started running. `p-map` works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out [`p-all`](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 instead if you're using different functions to get each promise.
 
 ```js
 import pMap from 'p-map';
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
