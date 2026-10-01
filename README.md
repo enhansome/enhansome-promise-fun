@@ -11,9 +11,9 @@ I intend to use this space to document my promise modules, useful promise patter
 
 *Not accepting additions, but happy to take requests.*
 
-* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,277 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22**: Promise queue with concurrency control
-* **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,928 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
-* **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,514 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-28**: Map over promises concurrently
+* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,279 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22**: Promise queue with concurrency control
+* **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,927 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
+* **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,513 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-28**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Promisify a callback-style function
 * **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,035 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18**: Retry a promise-returning or async function
 * **[p-progress](https://github.com/sindresorhus/p-progress) ⭐ 766 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-04**: Create a promise that reports progress
@@ -52,7 +52,7 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-map-series](https://github.com/sindresorhus/p-map-series) ⭐ 51 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Map over promises serially
 * **[p-race](https://github.com/sindresorhus/p-race) ⭐ 51 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-13**: A better `Promise.race()`
 * **[p-is-promise](https://github.com/sindresorhus/p-is-promise) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Check if something is a promise
-* **[p-times](https://github.com/sindresorhus/p-times) ⭐ 42 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-04**: Run promise-returning & async functions a specific number of times concurrently
+* **[p-times](https://github.com/sindresorhus/p-times) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-04**: Run promise-returning & async functions a specific number of times concurrently
 * **[p-some](https://github.com/sindresorhus/p-some) ⭐ 39 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Wait for a specified number of promises to be fulfilled
 * **[p-do-whilst](https://github.com/sindresorhus/p-do-whilst) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2024-08-29**: Calls a function repeatedly while a condition returns true and then resolves the promise
 
@@ -70,7 +70,7 @@ I intend to use this space to document my promise modules, useful promise patter
 
 ### How can I run 100 async/promise-returning functions with only 5 running at once?
 
-This is a good use-case for [`p-map`](https://github.com/sindresorhus/p-map) ⭐ 1,514 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-28. You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time `p-map` starts reading the array, all the actions creating those promises have already started running. `p-map` works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out [`p-all`](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 instead if you're using different functions to get each promise.
+This is a good use-case for [`p-map`](https://github.com/sindresorhus/p-map) ⭐ 1,513 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-28. You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time `p-map` starts reading the array, all the actions creating those promises have already started running. `p-map` works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out [`p-all`](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 instead if you're using different functions to get each promise.
 
 ```js
 import pMap from 'p-map';
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
