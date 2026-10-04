@@ -13,7 +13,7 @@ I intend to use this space to document my promise modules, useful promise patter
 
 * **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,280 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22**: Promise queue with concurrency control
 * **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,927 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
-* **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,514 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-28**: Map over promises concurrently
+* **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,513 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-28**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Promisify a callback-style function
 * **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,035 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18**: Retry a promise-returning or async function
 * **[p-progress](https://github.com/sindresorhus/p-progress) ⭐ 766 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-04**: Create a promise that reports progress
@@ -32,7 +32,7 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-wait-for](https://github.com/sindresorhus/p-wait-for) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Wait for a condition to be true
 * **[p-mutex](https://github.com/sindresorhus/p-mutex) ⭐ 141 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-06**: Ensure that only one operation accesses a particular resource at a time
 * **[p-state](https://github.com/sindresorhus/p-state) ⭐ 133 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-23**: Inspect the state of a promise
-* **[p-pipe](https://github.com/sindresorhus/p-pipe) ⭐ 131 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18**: Compose promise-returning & async functions into a reusable pipeline
+* **[p-pipe](https://github.com/sindresorhus/p-pipe) ⭐ 130 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18**: Compose promise-returning & async functions into a reusable pipeline
 * **[yoctodelay](https://github.com/sindresorhus/yoctodelay) ⭐ 120 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-01**: Delay a promise a specified amount of time
 * **[p-settle](https://github.com/sindresorhus/p-settle) ⭐ 96 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Settle promises concurrently and get their fulfillment value or rejection reason with optional limited concurrency
 * **[p-defer](https://github.com/sindresorhus/p-defer) ⭐ 87 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Create a deferred promise
@@ -70,7 +70,7 @@ I intend to use this space to document my promise modules, useful promise patter
 
 ### How can I run 100 async/promise-returning functions with only 5 running at once?
 
-This is a good use-case for [`p-map`](https://github.com/sindresorhus/p-map) ⭐ 1,514 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-28. You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time `p-map` starts reading the array, all the actions creating those promises have already started running. `p-map` works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out [`p-all`](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 instead if you're using different functions to get each promise.
+This is a good use-case for [`p-map`](https://github.com/sindresorhus/p-map) ⭐ 1,513 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-28. You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time `p-map` starts reading the array, all the actions creating those promises have already started running. `p-map` works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out [`p-all`](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 instead if you're using different functions to get each promise.
 
 ```js
 import pMap from 'p-map';
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

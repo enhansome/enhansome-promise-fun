@@ -70,7 +70,7 @@
             "open_issues": 10,
             "owner": "sindresorhus",
             "repo": "p-map",
-            "stars": 1514,
+            "stars": 1513,
             "topics": [
               "async",
               "async-await",
@@ -491,7 +491,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-pipe",
-            "stars": 131,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:26:54.072Z",
+    "last_updated": "2026-10-04T15:00:47.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
