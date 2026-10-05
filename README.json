@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4280,
+            "stars": 4279,
             "topics": [
               "async-functions",
               "async-queue",
@@ -129,7 +129,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1035,
+            "stars": 1034,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -150,7 +150,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-progress",
-            "stars": 766,
+            "stars": 765,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -213,7 +213,7 @@
             "open_issues": 3,
             "owner": "sindresorhus",
             "repo": "p-memoize",
-            "stars": 452,
+            "stars": 451,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -252,10 +252,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-18T19:12:30Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-event",
-            "stars": 450,
+            "stars": 449,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -357,7 +357,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-12T16:03:07Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "sindresorhus",
             "repo": "p-debounce",
             "stars": 238,
@@ -533,7 +533,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-settle",
-            "stars": 96,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:00:47.819Z",
+    "last_updated": "2026-10-05T18:53:44.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
