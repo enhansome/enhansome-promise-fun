@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-22T20:25:14Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4280,
+            "stars": 4281,
             "topics": [
               "async-functions",
               "async-queue",
@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2929,
+            "stars": 2930,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -129,7 +129,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1035,
+            "stars": 1036,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -171,7 +171,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "delay",
-            "stars": 623,
+            "stars": 624,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -357,7 +357,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-12T16:03:07Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "p-debounce",
             "stars": 238,
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:02:37.804Z",
+    "last_updated": "2026-10-08T17:00:46.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
