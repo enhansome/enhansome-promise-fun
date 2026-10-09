@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4281,
+            "stars": 4282,
             "topics": [
               "async-functions",
               "async-queue",
@@ -66,8 +66,8 @@
             "id": 71526722,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T05:52:44Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-09T04:09:11Z",
+            "open_issues": 5,
             "owner": "sindresorhus",
             "repo": "p-map",
             "stars": 1514,
@@ -251,8 +251,8 @@
             "id": 89505640,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T19:12:30Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-08T20:00:35Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-event",
             "stars": 450,
@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "make-synchronous",
-            "stars": 333,
+            "stars": 332,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -444,7 +444,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-mutex",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:00:46.795Z",
+    "last_updated": "2026-10-09T16:39:01.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
@@ -1087,7 +1087,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "promise-fun",
-      "stars": 5173,
+      "stars": 5175,
       "topics": [
         "async",
         "async-await",
