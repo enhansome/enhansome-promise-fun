@@ -15,8 +15,8 @@
             "id": 72200120,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-22T20:25:14Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-11T08:13:17Z",
+            "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "p-queue",
             "stars": 4283,
@@ -66,7 +66,7 @@
             "id": 71526722,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T19:54:46Z",
+            "last_commit": "2026-10-11T15:25:09Z",
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-map",
@@ -251,7 +251,7 @@
             "id": 89505640,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T20:00:35Z",
+            "last_commit": "2026-10-11T15:18:10Z",
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-event",
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:36:21.528Z",
+    "last_updated": "2026-10-11T15:59:20.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
