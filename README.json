@@ -465,7 +465,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-state",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "inspect",
               "introspection",
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:26:44.885Z",
+    "last_updated": "2026-10-13T17:11:22.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
@@ -1087,7 +1087,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "promise-fun",
-      "stars": 5175,
+      "stars": 5174,
       "topics": [
         "async",
         "async-await",
