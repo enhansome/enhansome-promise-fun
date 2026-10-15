@@ -11,7 +11,7 @@ I intend to use this space to document my promise modules, useful promise patter
 
 *Not accepting additions, but happy to take requests.*
 
-* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,283 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-12**: Promise queue with concurrency control
+* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,285 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-15**: Promise queue with concurrency control
 * **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,931 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
 * **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,514 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,502 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Promisify a callback-style function
@@ -19,17 +19,17 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-progress](https://github.com/sindresorhus/p-progress) ⭐ 768 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-04**: Create a promise that reports progress
 * **[delay](https://github.com/sindresorhus/delay) ⭐ 624 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Delay a promise a specified amount of time
 * **[p-throttle](https://github.com/sindresorhus/p-throttle) ⭐ 522 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Throttle promise-returning & async functions
-* **[p-memoize](https://github.com/sindresorhus/p-memoize) ⭐ 452 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-18**: Memoize promise-returning & async functions
+* **[p-memoize](https://github.com/sindresorhus/p-memoize) ⭐ 452 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15**: Memoize promise-returning & async functions
 * **[p-cancelable](https://github.com/sindresorhus/p-cancelable) ⭐ 451 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Create a promise that can be canceled
 * **[p-event](https://github.com/sindresorhus/p-event) ⭐ 450 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11**: Promisify an event by waiting for it to be emitted
 * **[p-all](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18**: Run promise-returning & async functions concurrently with optional limited concurrency
 * **[make-synchronous](https://github.com/sindresorhus/make-synchronous) ⭐ 332 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-26**: Make an asynchronous function synchronous
-* **[p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 308 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Timeout a promise after a specified amount of time
+* **[p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 308 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15**: Timeout a promise after a specified amount of time
 * **[p-lazy](https://github.com/sindresorhus/p-lazy) ⭐ 286 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Create a lazy promise that defers execution until `.then()` or `.catch()` is called
-* **[p-debounce](https://github.com/sindresorhus/p-debounce) ⭐ 238 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-12**: Debounce promise-returning & async functions
+* **[p-debounce](https://github.com/sindresorhus/p-debounce) ⭐ 238 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-15**: Debounce promise-returning & async functions
 * **[p-props](https://github.com/sindresorhus/p-props) ⭐ 201 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21**: Like `Promise.all()` but for `Map` and `Object`
 * **[p-min-delay](https://github.com/sindresorhus/p-min-delay) ⭐ 177 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-25**: Delay a promise a minimum amount of time
-* **[p-wait-for](https://github.com/sindresorhus/p-wait-for) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Wait for a condition to be true
+* **[p-wait-for](https://github.com/sindresorhus/p-wait-for) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15**: Wait for a condition to be true
 * **[p-mutex](https://github.com/sindresorhus/p-mutex) ⭐ 142 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-06**: Ensure that only one operation accesses a particular resource at a time
 * **[p-state](https://github.com/sindresorhus/p-state) ⭐ 134 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-23**: Inspect the state of a promise
 * **[p-pipe](https://github.com/sindresorhus/p-pipe) ⭐ 130 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18**: Compose promise-returning & async functions into a reusable pipeline
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
