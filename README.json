@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4285,
+            "stars": 4289,
             "topics": [
               "async-functions",
               "async-queue",
@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2931,
+            "stars": 2933,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -70,7 +70,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-map",
-            "stars": 1514,
+            "stars": 1516,
             "topics": [
               "async",
               "async-await",
@@ -171,7 +171,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "delay",
-            "stars": 624,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T14:29:23.247Z",
+    "last_updated": "2026-10-16T14:22:13.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
