@@ -15,11 +15,11 @@
             "id": 72200120,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T14:16:22Z",
+            "last_commit": "2026-10-16T21:25:44Z",
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4289,
+            "stars": 4292,
             "topics": [
               "async-functions",
               "async-queue",
@@ -70,7 +70,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-map",
-            "stars": 1516,
+            "stars": 1517,
             "topics": [
               "async",
               "async-await",
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:22:13.206Z",
+    "last_updated": "2026-10-17T13:18:13.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
