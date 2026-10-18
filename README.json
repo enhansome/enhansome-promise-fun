@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4292,
+            "stars": 4293,
             "topics": [
               "async-functions",
               "async-queue",
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:18:13.821Z",
+    "last_updated": "2026-10-18T13:38:27.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
@@ -1087,7 +1087,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "promise-fun",
-      "stars": 5175,
+      "stars": 5176,
       "topics": [
         "async",
         "async-await",
