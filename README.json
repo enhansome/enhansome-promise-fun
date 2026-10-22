@@ -104,7 +104,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "pify",
-            "stars": 1502,
+            "stars": 1501,
             "topics": [
               "promise-utilities",
               "promises",
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:43:13.963Z",
+    "last_updated": "2026-10-22T14:43:05.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
