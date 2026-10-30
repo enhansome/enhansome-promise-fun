@@ -11,11 +11,11 @@ I intend to use this space to document my promise modules, useful promise patter
 
 *Not accepting additions, but happy to take requests.*
 
-* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,302 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-16**: Promise queue with concurrency control
+* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,304 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-16**: Promise queue with concurrency control
 * **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,936 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
 * **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,519 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Promisify a callback-style function
-* **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,038 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18**: Retry a promise-returning or async function
+* **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,039 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18**: Retry a promise-returning or async function
 * **[p-progress](https://github.com/sindresorhus/p-progress) ⭐ 768 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-04**: Create a promise that reports progress
 * **[delay](https://github.com/sindresorhus/delay) ⭐ 625 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Delay a promise a specified amount of time
 * **[p-throttle](https://github.com/sindresorhus/p-throttle) ⭐ 523 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Throttle promise-returning & async functions
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
