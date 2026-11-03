@@ -12,19 +12,19 @@ I intend to use this space to document my promise modules, useful promise patter
 *Not accepting additions, but happy to take requests.*
 
 * **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,305 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-16**: Promise queue with concurrency control
-* **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,938 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
-* **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,520 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11**: Map over promises concurrently
+* **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,939 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
+* **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,519 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Promisify a callback-style function
-* **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,041 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18**: Retry a promise-returning or async function
+* **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,041 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-02**: Retry a promise-returning or async function
 * **[p-progress](https://github.com/sindresorhus/p-progress) ⭐ 767 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-04**: Create a promise that reports progress
 * **[delay](https://github.com/sindresorhus/delay) ⭐ 625 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Delay a promise a specified amount of time
 * **[p-throttle](https://github.com/sindresorhus/p-throttle) ⭐ 523 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Throttle promise-returning & async functions
 * **[p-memoize](https://github.com/sindresorhus/p-memoize) ⭐ 454 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15**: Memoize promise-returning & async functions
-* **[p-cancelable](https://github.com/sindresorhus/p-cancelable) ⭐ 451 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18**: Create a promise that can be canceled
+* **[p-cancelable](https://github.com/sindresorhus/p-cancelable) ⭐ 451 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-02**: Create a promise that can be canceled
 * **[p-event](https://github.com/sindresorhus/p-event) ⭐ 450 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-02**: Promisify an event by waiting for it to be emitted
 * **[p-all](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18**: Run promise-returning & async functions concurrently with optional limited concurrency
 * **[make-synchronous](https://github.com/sindresorhus/make-synchronous) ⭐ 332 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-26**: Make an asynchronous function synchronous
-* **[p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 309 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-15**: Timeout a promise after a specified amount of time
+* **[p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 309 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-02**: Timeout a promise after a specified amount of time
 * **[p-lazy](https://github.com/sindresorhus/p-lazy) ⭐ 286 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Create a lazy promise that defers execution until `.then()` or `.catch()` is called
 * **[p-debounce](https://github.com/sindresorhus/p-debounce) ⭐ 240 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-15**: Debounce promise-returning & async functions
 * **[p-props](https://github.com/sindresorhus/p-props) ⭐ 201 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21**: Like `Promise.all()` but for `Map` and `Object`
@@ -53,7 +53,7 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-map-series](https://github.com/sindresorhus/p-map-series) ⭐ 51 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Map over promises serially
 * **[p-is-promise](https://github.com/sindresorhus/p-is-promise) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Check if something is a promise
 * **[p-times](https://github.com/sindresorhus/p-times) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-04**: Run promise-returning & async functions a specific number of times concurrently
-* **[p-some](https://github.com/sindresorhus/p-some) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18**: Wait for a specified number of promises to be fulfilled
+* **[p-some](https://github.com/sindresorhus/p-some) ⭐ 39 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-02**: Wait for a specified number of promises to be fulfilled
 * **[p-do-whilst](https://github.com/sindresorhus/p-do-whilst) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2024-08-29**: Calls a function repeatedly while a condition returns true and then resolves the promise
 
 ### `.then`/`.catch`-based packages
@@ -70,7 +70,7 @@ I intend to use this space to document my promise modules, useful promise patter
 
 ### How can I run 100 async/promise-returning functions with only 5 running at once?
 
-This is a good use-case for [`p-map`](https://github.com/sindresorhus/p-map) ⭐ 1,520 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11. You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time `p-map` starts reading the array, all the actions creating those promises have already started running. `p-map` works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out [`p-all`](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 instead if you're using different functions to get each promise.
+This is a good use-case for [`p-map`](https://github.com/sindresorhus/p-map) ⭐ 1,519 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11. You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time `p-map` starts reading the array, all the actions creating those promises have already started running. `p-map` works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out [`p-all`](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 instead if you're using different functions to get each promise.
 
 ```js
 import pMap from 'p-map';
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
