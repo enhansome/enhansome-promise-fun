@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2939,
+            "stars": 2940,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:37:16.828Z",
+    "last_updated": "2026-11-05T17:42:22.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
