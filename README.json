@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2940,
+            "stars": 2939,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -129,7 +129,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1041,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -220,27 +220,6 @@
         },
         {
           "node_type": "item",
-          "title": "p-cancelable",
-          "description": "Create a promise that can be canceled",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Create a promise that can be canceled",
-            "homepage": null,
-            "id": 74961999,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-11-02T20:03:10Z",
-            "open_issues": 0,
-            "owner": "sindresorhus",
-            "repo": "p-cancelable",
-            "stars": 451,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:00:57.862Z"
-        },
-        {
-          "node_type": "item",
           "title": "p-event",
           "description": "Promisify an event by waiting for it to be emitted",
           "children": [],
@@ -255,6 +234,27 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-event",
+            "stars": 450,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:00:57.862Z"
+        },
+        {
+          "node_type": "item",
+          "title": "p-cancelable",
+          "description": "Create a promise that can be canceled",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Create a promise that can be canceled",
+            "homepage": null,
+            "id": 74961999,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-02T20:03:10Z",
+            "open_issues": 0,
+            "owner": "sindresorhus",
+            "repo": "p-cancelable",
             "stars": 450,
             "topics": []
           },
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:42:22.479Z",
+    "last_updated": "2026-11-06T16:58:43.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
