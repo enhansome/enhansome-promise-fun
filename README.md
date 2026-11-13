@@ -11,7 +11,7 @@ I intend to use this space to document my promise modules, useful promise patter
 
 *Not accepting additions, but happy to take requests.*
 
-* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,306 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-16**: Promise queue with concurrency control
+* **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,305 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-16**: Promise queue with concurrency control
 * **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,941 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
 * **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,520 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Promisify a callback-style function
@@ -26,7 +26,7 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[make-synchronous](https://github.com/sindresorhus/make-synchronous) ⭐ 332 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-26**: Make an asynchronous function synchronous
 * **[p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 309 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-02**: Timeout a promise after a specified amount of time
 * **[p-lazy](https://github.com/sindresorhus/p-lazy) ⭐ 286 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Create a lazy promise that defers execution until `.then()` or `.catch()` is called
-* **[p-debounce](https://github.com/sindresorhus/p-debounce) ⭐ 240 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-15**: Debounce promise-returning & async functions
+* **[p-debounce](https://github.com/sindresorhus/p-debounce) ⭐ 241 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-15**: Debounce promise-returning & async functions
 * **[p-props](https://github.com/sindresorhus/p-props) ⭐ 201 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21**: Like `Promise.all()` but for `Map` and `Object`
 * **[p-min-delay](https://github.com/sindresorhus/p-min-delay) ⭐ 177 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-25**: Delay a promise a minimum amount of time
 * **[p-wait-for](https://github.com/sindresorhus/p-wait-for) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15**: Wait for a condition to be true
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
