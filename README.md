@@ -15,11 +15,11 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,943 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
 * **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,521 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,502 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Promisify a callback-style function
-* **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,041 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-02**: Retry a promise-returning or async function
-* **[p-progress](https://github.com/sindresorhus/p-progress) ⭐ 767 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-04**: Create a promise that reports progress
+* **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,040 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-02**: Retry a promise-returning or async function
+* **[p-progress](https://github.com/sindresorhus/p-progress) ⭐ 766 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-04**: Create a promise that reports progress
 * **[delay](https://github.com/sindresorhus/delay) ⭐ 625 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Delay a promise a specified amount of time
 * **[p-throttle](https://github.com/sindresorhus/p-throttle) ⭐ 522 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Throttle promise-returning & async functions
-* **[p-memoize](https://github.com/sindresorhus/p-memoize) ⭐ 454 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15**: Memoize promise-returning & async functions
+* **[p-memoize](https://github.com/sindresorhus/p-memoize) ⭐ 453 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15**: Memoize promise-returning & async functions
 * **[p-cancelable](https://github.com/sindresorhus/p-cancelable) ⭐ 451 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-02**: Create a promise that can be canceled
 * **[p-event](https://github.com/sindresorhus/p-event) ⭐ 450 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-02**: Promisify an event by waiting for it to be emitted
 * **[p-all](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18**: Run promise-returning & async functions concurrently with optional limited concurrency
@@ -32,7 +32,7 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-wait-for](https://github.com/sindresorhus/p-wait-for) ⭐ 170 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15**: Wait for a condition to be true
 * **[p-mutex](https://github.com/sindresorhus/p-mutex) ⭐ 140 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-06**: Ensure that only one operation accesses a particular resource at a time
 * **[p-state](https://github.com/sindresorhus/p-state) ⭐ 134 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-23**: Inspect the state of a promise
-* **[p-pipe](https://github.com/sindresorhus/p-pipe) ⭐ 130 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18**: Compose promise-returning & async functions into a reusable pipeline
+* **[p-pipe](https://github.com/sindresorhus/p-pipe) ⭐ 129 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18**: Compose promise-returning & async functions into a reusable pipeline
 * **[yoctodelay](https://github.com/sindresorhus/yoctodelay) ⭐ 120 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-01**: Delay a promise a specified amount of time
 * **[p-settle](https://github.com/sindresorhus/p-settle) ⭐ 96 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Settle promises concurrently and get their fulfillment value or rejection reason with optional limited concurrency
 * **[p-defer](https://github.com/sindresorhus/p-defer) ⭐ 87 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Create a deferred promise
@@ -63,7 +63,7 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-tap](https://github.com/sindresorhus/p-tap) ⭐ 134 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-08**: Tap into a promise chain without affecting its value or state
 * **[p-if](https://github.com/sindresorhus/p-if) ⭐ 64 | 🐛 0 | 🌐 TypeScript | 📅 2021-04-09**: Conditional promise chains
 * **[p-catch-if](https://github.com/sindresorhus/p-catch-if) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-09**: Conditional promise catch handler
-* **[p-log](https://github.com/sindresorhus/p-log) ⭐ 30 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-09**: Log the value/error of a promise
+* **[p-log](https://github.com/sindresorhus/p-log) ⭐ 29 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-09**: Log the value/error of a promise
 * **[p-break](https://github.com/sindresorhus/p-break) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-07**: Break out of a promise chain
 
 ## FAQ
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
