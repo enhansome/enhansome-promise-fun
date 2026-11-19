@@ -47,7 +47,7 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-whilst](https://github.com/sindresorhus/p-whilst) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-16**: While a condition returns true, calls a function repeatedly, and then resolves the promise
 * **[p-any](https://github.com/sindresorhus/p-any) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Wait for any promise to be fulfilled
 * **[p-reflect](https://github.com/sindresorhus/p-reflect) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Make a promise always fulfill with its actual fulfillment value or rejection reason
-* **[p-each-series](https://github.com/sindresorhus/p-each-series) ⭐ 52 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Iterate over promises serially
+* **[p-each-series](https://github.com/sindresorhus/p-each-series) ⭐ 52 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18**: Iterate over promises serially
 * **[p-forever](https://github.com/sindresorhus/p-forever) ⭐ 52 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-16**: Run promise-returning & async functions repeatedly until you end it
 * **[p-race](https://github.com/sindresorhus/p-race) ⭐ 52 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-13**: A better `Promise.race()`
 * **[p-map-series](https://github.com/sindresorhus/p-map-series) ⭐ 51 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Map over promises serially
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

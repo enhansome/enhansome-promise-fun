@@ -803,7 +803,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-18T19:12:26Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-each-series",
             "stars": 52,
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:27:46.941Z",
+    "last_updated": "2026-11-19T18:42:53.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
@@ -1087,7 +1087,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "promise-fun",
-      "stars": 5184,
+      "stars": 5183,
       "topics": [
         "async",
         "async-await",
