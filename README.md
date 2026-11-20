@@ -13,7 +13,7 @@ I intend to use this space to document my promise modules, useful promise patter
 
 * **[p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,305 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-16**: Promise queue with concurrency control
 * **[p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,943 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Run multiple promise-returning & async functions with limited concurrency
-* **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,521 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11**: Map over promises concurrently
+* **[p-map](https://github.com/sindresorhus/p-map) ⭐ 1,520 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11**: Map over promises concurrently
 * **[pify](https://github.com/sindresorhus/pify) ⭐ 1,502 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Promisify a callback-style function
 * **[p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,040 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-02**: Retry a promise-returning or async function
 * **[p-progress](https://github.com/sindresorhus/p-progress) ⭐ 766 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-04**: Create a promise that reports progress
@@ -47,7 +47,7 @@ I intend to use this space to document my promise modules, useful promise patter
 * **[p-whilst](https://github.com/sindresorhus/p-whilst) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-16**: While a condition returns true, calls a function repeatedly, and then resolves the promise
 * **[p-any](https://github.com/sindresorhus/p-any) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Wait for any promise to be fulfilled
 * **[p-reflect](https://github.com/sindresorhus/p-reflect) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Make a promise always fulfill with its actual fulfillment value or rejection reason
-* **[p-each-series](https://github.com/sindresorhus/p-each-series) ⭐ 52 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18**: Iterate over promises serially
+* **[p-each-series](https://github.com/sindresorhus/p-each-series) ⭐ 52 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Iterate over promises serially
 * **[p-forever](https://github.com/sindresorhus/p-forever) ⭐ 52 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-16**: Run promise-returning & async functions repeatedly until you end it
 * **[p-race](https://github.com/sindresorhus/p-race) ⭐ 52 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-13**: A better `Promise.race()`
 * **[p-map-series](https://github.com/sindresorhus/p-map-series) ⭐ 51 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18**: Map over promises serially
@@ -70,7 +70,7 @@ I intend to use this space to document my promise modules, useful promise patter
 
 ### How can I run 100 async/promise-returning functions with only 5 running at once?
 
-This is a good use-case for [`p-map`](https://github.com/sindresorhus/p-map) ⭐ 1,521 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11. You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time `p-map` starts reading the array, all the actions creating those promises have already started running. `p-map` works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out [`p-all`](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 instead if you're using different functions to get each promise.
+This is a good use-case for [`p-map`](https://github.com/sindresorhus/p-map) ⭐ 1,520 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11. You might ask why you can't just specify an array of promises. Promises represent values of a computation and not the computation itself - they are eager. So by the time `p-map` starts reading the array, all the actions creating those promises have already started running. `p-map` works by executing a promise-returning function in a mapper function. This way the promises are created lazily and can be concurrency limited. Check out [`p-all`](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 instead if you're using different functions to get each promise.
 
 ```js
 import pMap from 'p-map';
@@ -95,4 +95,4 @@ console.log(result);
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
