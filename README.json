@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4307,
+            "stars": 4308,
             "topics": [
               "async-functions",
               "async-queue",
@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2945,
+            "stars": 2948,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -70,7 +70,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-map",
-            "stars": 1520,
+            "stars": 1521,
             "topics": [
               "async",
               "async-await",
@@ -104,7 +104,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "pify",
-            "stars": 1501,
+            "stars": 1502,
             "topics": [
               "promise-utilities",
               "promises",
@@ -129,7 +129,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1041,
+            "stars": 1042,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -171,7 +171,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "delay",
-            "stars": 625,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -318,7 +318,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-timeout",
-            "stars": 309,
+            "stars": 310,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -575,7 +575,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-locate",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -722,7 +722,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-try",
-            "stars": 62,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:57.862Z"
@@ -1075,7 +1075,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T19:12:36.126Z",
+    "last_updated": "2026-11-28T17:50:48.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "Promise packages, patterns, chat, and tutorials",
